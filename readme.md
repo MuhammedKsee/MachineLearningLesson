@@ -62,4 +62,4 @@ print(classification_report(y_test, y_pred))
 
 ## İletişim
 
-Proje Sahibi - [E-posta adresiniz](mailto:kosemuhammet545@gmail.com)
+Proje Sahibi - [Mail](mailto:kosemuhammet545@gmail.com)
